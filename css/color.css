@@ -1,0 +1,65 @@
+/*==========================================================================================
+								Primery Theme Colors										
+==========================================================================================*/
+/*=============================================
+			Theme Text Color
+=============================================*/
+a,
+p a,
+p a:hover,
+a:hover,
+a:focus,
+a:active,
+.tg-stars span:after,
+.tg-navigation ul li:hover a,
+.tg-navigation ul li.tg-active a,
+.tg-navigation ul li a.current,
+.tg-sectiontitle h2,
+.tg-welcomeshortcode .tg-description p span,
+.tg-service:hover .tg-title h2 a,
+.tg-teammember:hover .tg-title h2 a,
+.tg-package:hover .tg-price h2
+
+
+{ color: #072f5f; }
+@media (max-width:767px){
+	.tg-navigation ul li a.current,
+	.tg-navigation ul li a:hover.current{color: #072f5f;}
+}
+/*=============================================
+			Theme Background Color
+=============================================*/
+.tg-btn:hover,
+.tg-dropdowarrow,
+.navbar-toggle,
+.tg-btn:hover,
+.tg-btn.tg-active,
+.tg-slidercontent .tg-btnarea .tg-btn:hover,
+.tg-sectiontitlevtwo h2:after,
+.tg-sliderdots .owl-dot span:hover,
+.tg-sliderdots .owl-dot.active span,
+.tg-teammember:hover .tg-teamimg:before,
+.tg-package:hover .tg-packagename,
+.tg-package:hover .tg-btn,
+.tg-saletag,
+.tg-btnscroltotop:hover
+
+
+{ background:#3895d3; }
+.tg-homeslider figure figcaption{}
+/*=============================================
+			Theme Border Color
+=============================================*/
+input:focus,
+.select select:focus,
+.form-control:focus,
+.tg-btn,
+.tg-slidercontent .tg-btn:hover,
+.tg-testimonial:after,
+.tg-package:hover .tg-packagename,
+.tg-package:hover .tg-btn,
+.tg-saletag:before,
+.tg-btnscroltotop:hover
+
+
+{ border-color: #3895d3; }

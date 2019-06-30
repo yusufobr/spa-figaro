@@ -1,0 +1,51 @@
+*:after,
+*:before,
+p a,
+a,
+button,
+.tg-socialicons li a,
+.tg-roundicontext,
+.tg-roundicontext .tg-usericonholder,
+.sub-menu,
+.mega-menu,
+.tg-prev,
+.tg-next,
+.tg-prev span,
+.tg-next span,
+.tg-serviceimg img,
+.tg-sliderdots .owl-dot,
+.tg-sliderdots .owl-dot span,
+.tg-galleryimg .tg-hover,
+.tg-galleryimg,
+.tg-price h2,
+.tg-packagename,
+.tg-package,
+.tg-btnscroltotop,
+.tg-navigationarea,
+.tg-testimonialthumbnails .item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+	-webkit-transition: all 300ms ease-in-out;
+	-moz-transition: all 300ms ease-in-out;
+	-ms-transition: all 300ms ease-in-out;
+	-o-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}
